@@ -1,0 +1,9 @@
+[submodule "VulnerableWebsite"]
+	path = VulnerableWebsite
+	url = https://github.com/NirushaaaR/VulnerableWebsite
+[submodule "ctf-platform"]
+	path = ctf-platform
+	url = https://github.com/NirushaaaR/CTF-platform-final-project
+[submodule "vuln-server-manager"]
+	path = vuln-server-manager
+	url = https://github.com/NirushaaaR/vuln-server-manager
